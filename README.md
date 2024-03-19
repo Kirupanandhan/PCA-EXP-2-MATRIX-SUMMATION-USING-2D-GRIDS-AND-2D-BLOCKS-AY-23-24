@@ -282,7 +282,8 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 
-![image](https://github.com/Bharath745/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/94508354/858ea837-5f07-48c4-8880-6e37d119562c)
+![image](https://github.com/Kirupanandhan/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/94386222/a3180c06-933e-41ca-be38-01cd81356b4f)
+
 
 
 ## RESULT:
